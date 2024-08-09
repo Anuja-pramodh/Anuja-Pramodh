@@ -1,85 +1,70 @@
-# ![Banner](https://your-banner-url.com/banner.png)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+%5BYour+Name%5D!+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" style="width:50%; border-radius:50%;">
 </p>
 
-## Hi there, I'm Anuja Pramodh! 👋
+<h1 align="center">
+Hi 👋 I'm Anuja Pramodh! 
+</h1>
 
-I'm a passionate **Software Engineer** from **Sri Lanka**.
 
+<h3 align="center">IT Student | Exploring the Boundless World of Technology...</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anuja&label=Profile%20views&color=0e75b6&style=flat" alt="Anuja-Pramodh" /> </p>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning at **CINEC Campus**.
+  
 - 💬 Ask me about **Web Development**.
+  
 - 📫 How to reach me: pramodhanuja4@gmail.com
+  
+- ⚡ Fun fact Call me as **𝒜𝓃𝓊**
+  
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 ---
-
-## 🛠 Skills & Tools
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <!-- Add more badges as per your skills -->
-</p>
-
----
-
-## 📊 GitHub Stats
-
+<h3 align="center">My Statistics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Your Name's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Anuja&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuja&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Projects
-
-- [**Project Name**](https://github.com/YourUsername/ProjectName): A brief description of what the project does.
-- [**Another Project**](https://github.com/YourUsername/AnotherProject): Another brief description.
-
----
-
-## ✍️ Latest Articles
-
-- [**How to Build an Amazing GitHub Profile**](https://yourblog.com/article-link)
-- [**Getting Started with React**](https://yourblog.com/another-article-link)
-- [**Understanding JavaScript Promises**](https://yourblog.com/third-article-link)
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anuja&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ---
-
-## 🌟 Fun Fact
-
-I love solving puzzles and working on AI-driven projects!
-
----
-
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/YourUsername" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.facebook.com/anuja.pramodh.9?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.facebook.com/anuja.pramodh.9?mibextid=LQQJ4d" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+</p>
+---
+## 🛠 Languages and Tools:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://twitter.com/YourUsername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <!-- Add more social links as per your profiles -->
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge)
