@@ -8,7 +8,7 @@ Hi 👋 I'm Anuja Pramodh!
 
 
 <h3 align="center">IT Student | Exploring the Boundless World of Technology...</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anuja&label=Profile%20views&color=0e75b6&style=flat" alt="Anuja-Pramodh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anuja-Pramodh&label=Profile%20views&color=0e75b6&style=flat" alt="Anuja-Pramodh" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -52,16 +52,16 @@ Hi 👋 I'm Anuja Pramodh!
 </table>
 
 ---
-## 🔗 Connect with Me
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/anuja.pramodh.9?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://www.facebook.com/anuja.pramodh.9?mibextid=LQQJ4d" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="www.facebook.com/anuja.pramodh.9?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="www.Instagram.com/anuja.pramodh.9?mibextid=LQQJ4d" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
----
-## 🛠 Languages and Tools:
 
+---
+
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,c,cpp" />
