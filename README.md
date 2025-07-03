@@ -55,7 +55,7 @@ I'm an enthusiastic IT student currently pursuing my studies at **CINEC Campus**
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=react,js,ts,bootstrap" alt="Frontend tools"/>
+      <img height="40" src="https://skillicons.dev/icons?i=react,js"/>
     </td>
   </tr>
   <tr>
