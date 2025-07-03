@@ -1,5 +1,18 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" style="width:50%; border-radius:50%;">
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Anuja Pramodh! 
+</h1>
+
+
+<h3 align="center">IT Student | Exploring the Boundless World of Technology...</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anuja-Pramodh&label=Profile%20views&color=0e75b6&style=flat" alt="Anuja-Pramodh" /> </p>
+
+
 ### Hello 🌎, I'm Anuja Pramodh
 
 I'm an enthusiastic IT student currently pursuing my studies at **CINEC Campus**, passionate about technology, innovation, and web development. I enjoy crafting clean, maintainable code and learning new skills to keep up with the evolving tech landscape. I'm excited to contribute to projects that make a difference and continuously grow my expertise.
@@ -9,15 +22,6 @@ I'm an enthusiastic IT student currently pursuing my studies at **CINEC Campus**
 - 💬 Ask me about **HTML, CSS, C, C++, Java, Git, GitHub, basic Python, and web technologies**.  
 - ⚡ Fun fact: You can call me **𝒜𝓃𝓊**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/anuja.pramodh.9" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;">
-    <i class="devicon-facebook-plain" style="font-size: 40px; color: #3b5998;"></i>
-  </a>
-  <a href="https://www.instagram.com/anuja.pramodh.9" target="_blank" rel="noopener noreferrer">
-    <i class="devicon-instagram-plain" style="font-size: 40px; color: #E4405F;"></i>
-  </a>
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anuja-Pramodh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
