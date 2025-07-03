@@ -7,10 +7,8 @@
 <h1 align="center">
 Hi 👋 I'm Anuja Pramodh! 
 </h1>
-
-
-<h3 align="center">IT Student | Exploring the Boundless World of Technology...</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anuja-Pramodh&label=Profile%20views&color=0e75b6&style=flat" alt="Anuja-Pramodh" /> </p>
+
 
 
 ### Hello 🌎, I'm Anuja Pramodh
@@ -23,9 +21,6 @@ I'm an enthusiastic IT student currently pursuing my studies at **CINEC Campus**
 - ⚡ Fun fact: You can call me **𝒜𝓃𝓊**.
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Anuja-Pramodh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
